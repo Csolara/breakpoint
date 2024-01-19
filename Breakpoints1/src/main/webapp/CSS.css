@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.rojo{
+	border:solid grey;
+	background-color: red;
+}
+.azul{
+	border:solid grey;
+	background-color: blue;
+}
+.verde{
+	border:solid grey;
+	background-color: lawngreen;
+}
+.margen{
+	margin: 15px;
+}
+.corto{
+	width: 20%;
+}
+.moverarr{
+	transform: translateY(-40px);
+}
+.moverarr2{
+	transform: translateY(-80px);
+}
+.ancho{
+	width: 500px;
+}
